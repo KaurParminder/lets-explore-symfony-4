@@ -1,0 +1,5 @@
+First_page:
+  path:         /
+  controller:   Symfony\Bundle\FrameworkBundle\Controller\TemplateController::templateAction
+  defaults:
+    template: 'First_page.html.twig'
